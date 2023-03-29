@@ -7,13 +7,13 @@ A simple library to send notifications to Discord via webhooks, designed for use
 Install the library using npm or yarn:
 
 ```
-npm install dishooks
+npm install discohooks
 ```
 
 or
 
 ```
-yarn add dishooks
+yarn add discohooks
 ```
 
 ## Usage
@@ -132,7 +132,7 @@ Import the library:
 
 ```javascript
 const axios = require('axios');
-const DiscordNotification = require('dishooks');
+const DiscordNotification = require('discohooks');
 
 const webhookUrl = 'https://discord.com/api/webhooks/; // Replace with your webhook
 const discord = new DiscordNotification(webhookUrl);
