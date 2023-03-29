@@ -1,0 +1,26 @@
+{
+  "name": "discohooks",
+  "version": "1.0.0",
+  "description": "A JavaScript library for sending notifications to Discord using webhooks",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neonn0d/discohooks.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "neonn0d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neonn0d/discohooks/issues"
+  },
+  "homepage": "https://github.com/neonn0d/discohooks#readme"
+}
