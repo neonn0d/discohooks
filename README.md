@@ -134,7 +134,7 @@ Import the library:
 const axios = require('axios');
 const DiscordNotification = require('discohooks');
 
-const webhookUrl = 'https://discord.com/api/webhooks/; // Replace with your webhook
+const webhookUrl = 'https://discord.com/api/webhooks/1234567890/abcdefg'; // Replace with your webhook
 const discord = new DiscordNotification(webhookUrl);
 
 const apiUrl = 'https://reqres.in/api/users/1'; // Replace with the actual API URL
@@ -185,7 +185,6 @@ async function sendApiDataToDiscord() {
 }
 
 sendApiDataToDiscord();
-
 ```
 
 # Customization

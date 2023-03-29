@@ -1,6 +1,6 @@
 {
   "name": "discohooks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A JavaScript library for sending notifications to Discord using webhooks",
   "main": "index.js",
   "dependencies": {
