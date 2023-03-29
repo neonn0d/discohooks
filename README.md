@@ -126,7 +126,7 @@ export default function DiscordApiDataSender() {
 }
 ```
 
-# Node
+# Usage for Node
 
 Import the library:
 
